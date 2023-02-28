@@ -1,4 +1,4 @@
-#CB Coding Test
+<h1>CB Coding Test</h1>
 
 Create a simple PHP app that takes the input of a user (First Name, Email, Phone Number) and does the following:
 1. Removes any white space from the input (sanitize)
@@ -7,12 +7,12 @@ Create a simple PHP app that takes the input of a user (First Name, Email, Phone
 4. Displays the formatted text
 
 <h2>Example</h2>
-Name: Giovanni 
-Email: giovanni@consumrbuzz.com
-Phone: +1(561) 319-6637
-
-Output should be:
-Giovanni 
-giovanni consumrbuzz.com
-15613196637
+Name: Giovanni <br>
+Email: giovanni@consumrbuzz.com<br>
+Phone: +1(561) 319-6637<br>
+<br>
+Output should be:<br>
+Giovanni <br>
+giovanni consumrbuzz.com<br>
+15613196637<br>
 
