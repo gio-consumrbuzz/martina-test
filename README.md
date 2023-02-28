@@ -6,7 +6,7 @@ Create a simple PHP app that takes the input of a user (First Name, Email, Phone
 3. Removes any symbols, special characters, or spaces in the phone number
 4. Displays the formatted text
 
-##Example
+<h2>Example</h2>
 Name: Giovanni 
 Email: giovanni@consumrbuzz.com
 Phone: +1(561) 319-6637
